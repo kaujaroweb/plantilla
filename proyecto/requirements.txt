@@ -2,6 +2,8 @@ django
 gunicorn
 requests
 django-dotenv
+psycopg2-binary
 django-storages
 boto3
+django-tailwind
 python-dotenv==1.0.1
